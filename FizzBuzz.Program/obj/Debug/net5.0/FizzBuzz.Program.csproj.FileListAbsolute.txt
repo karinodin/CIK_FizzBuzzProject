@@ -1,0 +1,15 @@
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/FizzBuzz.Program.deps.json
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/FizzBuzz.Program.runtimeconfig.json
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/FizzBuzz.Program.runtimeconfig.dev.json
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/FizzBuzz.Program.dll
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/ref/FizzBuzz.Program.dll
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/bin/Debug/net5.0/FizzBuzz.Program.pdb
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.csprojAssemblyReference.cache
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.AssemblyInfoInputs.cache
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.AssemblyInfo.cs
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.csproj.CoreCompileInputs.cache
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.dll
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/ref/FizzBuzz.Program.dll
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.pdb
+/Users/karinodin/CodeIsKing2021/FizzBuzz/FizzBuzz.Program/obj/Debug/net5.0/FizzBuzz.Program.genruntimeconfig.cache
